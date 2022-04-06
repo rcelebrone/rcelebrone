@@ -1,6 +1,5 @@
 ## Olá 👋
-Sou Rodrigo Celebrone, estou cursando Aplicações e Tecnologias de Blockchain na PUC Minas e o MBA em Liderança, Gestão de Equipes e Produtividade na PUC RS. Sou Especialista formado em Arquitetura de software distribuída pela PUC Minas e graduado em Gestão de TI pela Anhembi Morumbi.
-
+Sou Rodrigo Celebrone, sou Especialista em Arquitetura de software distribuído (PUC Minas) e graduado em Gestão de TI (Anhembi Morumbi). Cursando Aplicações e Tecnologias de Blockchain (PUC Minas) e MBA em Liderança, Gestão de Equipes e Produtividade (PUC RS).
 
 ### Conheça um pouco sobre mim
 - 🔭 Estou atualmente trabalhando na MadeiraMadeira
