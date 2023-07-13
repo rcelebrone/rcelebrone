@@ -1,12 +1,12 @@
 ## Olá 👋
-Sou Rodrigo Celebrone, MBA em Liderança, Gestão de Equipes e Produtividade (PUC RS), Especialista em Arquitetura de software distribuído (PUC Minas) e graduado em Gestão de TI (Anhembi Morumbi). Cursando Arquitetura de soluções (PUC Minas).
+Sou Rodrigo Celebrone, possuo MBA em Liderança, Gestão de Equipes e Produtividade (PUC RS), Especialista em Arquitetura de software distribuído (PUC Minas) e graduado em Gestão de TI (Anhembi Morumbi). Estou atualmente cursando Arquitetura de soluções (PUC Minas).
 
 ### Conheça um pouco sobre mim
 - 🔭 Estou atualmente trabalhando na MadeiraMadeira
-- 🌱 Estou estudando Rust / Blockchain / Leadership / English
-- 💬 Entre em contato para falarmos sobre Coffee / Software Architecture / DevOps / Muay Thai / Liderança
+- 🌱 Estou estudando Rust / Python / Arquitetura de soluções / Leadership / Inglês
+- 💬 Entre em contato para falarmos sobre Café / Cerveja / Arquitetura de software / DevOps / Muay Thai / Liderança
 - 📫 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/rcelebrone/) ou o canal de contato do meu [Blog](https://www.rcelebrone.com/)
-- ⚡ Um fato engraçado sobre mim é que Fico triste se deixo de programar rsrs
+- ⚡ Um fato engraçado sobre mim é que fico triste se deixo de programar rsrs
 
 ### Algumas das minhas principais ferramentas
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
