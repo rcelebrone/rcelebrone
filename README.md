@@ -1,10 +1,10 @@
 ## Olá 👋
-Sou Rodrigo Celebrone, possuo MBA em Liderança, Gestão de Equipes e Produtividade (PUC RS), Especialista em Arquitetura de software distribuído (PUC Minas) e graduado em Gestão de TI (Anhembi Morumbi). Estou atualmente cursando Arquitetura de soluções (PUC Minas).
+Sou Rodrigo Celebrone, possuo MBA em Liderança, Gestão de Equipes e Produtividade (PUC RS), Especialização em Arquitetura de soluções (PUC Minas), Especialista em Arquitetura de software distribuído (PUC Minas) e graduado em Gestão de TI (Anhembi Morumbi).
 
 ### Conheça um pouco sobre mim
 - 🔭 Estou atualmente trabalhando na MadeiraMadeira
-- 🌱 Estou estudando Rust / Python / Arquitetura de soluções / Leadership / Inglês
-- 💬 Entre em contato para falarmos sobre Café / Cerveja / Arquitetura de software / DevOps / Muay Thai / Liderança
+- 🌱 Estou estudando Rust / Arquitetura na AWS / Leadership / Inglês
+- 💬 Entre em contato para falarmos sobre Café / Cerveja / Arquitetura de software / DevSecOps / Muay Thai / Liderança
 - 📫 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/rcelebrone/) ou o canal de contato do meu [Blog](https://www.rcelebrone.com/)
 - ⚡ Um fato engraçado sobre mim é que fico triste se deixo de programar rsrs
 
@@ -28,7 +28,8 @@ Sou Rodrigo Celebrone, possuo MBA em Liderança, Gestão de Equipes e Produtivid
 
 ### Experiências
 - Liderança, gestão de projetos, mentoria, resolução de conflitos, desenvolvimento de plano de carreia, seleção e avaliação de pessoas e formação de times.
-- Construção de Cultura DevSecOps e Developer Experience com forte experiência em soluções como Jenkins, GitLab e GitHub Actions.
+- Arquitetura de software distribuído, diagramas de arquitetura, análise de tradeoffs, arquitetura em nuvem.
+- Construção de Cultura DevSecOps e Developer Experience com forte experiência em soluções baseadas em git.
 - Mindset ágil com foco em resultado utilizando Scrum, Kanban e Lean.
 - Migração e Configuração de Infraestruturas OnPrem e Cloud para soluções locais, multi região e/ou multi cloud. Forte experiência com servidores IIS e Apache, orquestrador de container Kubernetes, IaaS, PaaS, VMs, Network, LB, gestão de IAM e gestão de custos nos provedores Azure, AWS e Google Cloud.
 - Práticas de engenharia e arquitetura com SOLID, TDD, CleanCode, 12Factors, estilos arquiteturas e padrões de design. vasta experiência com programação de aplicações usando soluções como Docker, C#, NiFi, CDAP, Java, Javascript, Coldfusion, Sql Server, Oracle, Dart e Flutter, Android, NodeJs, Phyton, MongoDb, Redis, PostgreSQL, Oracle, Git, React, Shell Script.
