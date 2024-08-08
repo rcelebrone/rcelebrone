@@ -3,8 +3,8 @@ Sou Rodrigo Celebrone, possuo MBA em Liderança, Gestão de Equipes e Produtivid
 
 ### Conheça um pouco sobre mim
 - 🔭 Estou atualmente trabalhando na MadeiraMadeira
-- 🌱 Estou estudando Rust / Arquitetura na AWS / Leadership / Inglês
-- 💬 Entre em contato para falarmos sobre Café / Cerveja / Arquitetura de software / DevSecOps / Muay Thai / Liderança
+- 🌱 Estou estudando Rust / IA / Leadership / Inglês
+- 💬 Entre em contato para falarmos sobre Café / Cerveja / Arquitetura de software e soluções / DevSecOps / Muay Thai / Liderança
 - 📫 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/rcelebrone/) ou o canal de contato do meu [Blog](https://www.rcelebrone.com/)
 - ⚡ Um fato engraçado sobre mim é que fico triste se deixo de programar rsrs
 
