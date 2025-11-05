@@ -1,10 +1,10 @@
 ## Olá 👋
-Sou Rodrigo Celebrone, possuo MBA em Liderança, Gestão de Equipes e Produtividade (PUC RS), Especialização em Arquitetura de soluções (PUC Minas), Especialista em Arquitetura de software distribuído (PUC Minas) e graduado em Gestão de TI (Anhembi Morumbi).
+Sou Rodrigo Celebrone, possuo MBA em Liderança, Gestão de Equipes e Produtividade (PUC RS), Especialização em Inteligência Artificial e Machine Learning (PUC Minas), Especialização em Arquitetura de soluções (PUC Minas), Especialista em Arquitetura de software distribuído (PUC Minas) e sou Graduado em Gestão de TI (Anhembi Morumbi).
 
 ### Conheça um pouco sobre mim
-- 🔭 Estou atualmente trabalhando na MadeiraMadeira
-- 🌱 Estou estudando Rust / IA / Leadership / Inglês
-- 💬 Entre em contato para falarmos sobre Café / Cerveja / Arquitetura de software e soluções / DevSecOps / Muay Thai / Liderança
+- 🔭 Estou atualmente trabalhando na MadeiraMadeira como Head de Tecnologia
+- 🌱 Estou estudando Flutter / GenIA / Leadership / Inglês
+- 💬 Entre em contato para falarmos sobre Café / Cerveja / Arquitetura de software e soluções / DevSecOps / Muay Thai / Krav Maga / Liderança
 - 📫 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/rcelebrone/) ou o canal de contato do meu [Blog](https://www.rcelebrone.com/)
 - ⚡ Um fato engraçado sobre mim é que fico triste se deixo de programar rsrs
 
